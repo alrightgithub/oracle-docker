@@ -12,7 +12,7 @@
 # 
 # FILES REQUIRED TO BUILD
 # -----------------------
-# jdk-8ux-linux-x64.tar.gz (Oracle Java SE 8 for Linux x64)
+# jdk-8u*-linux-x64.tar.gz (Oracle Java SE 8 for Linux x64)
 #
 # Usage:
 # ------
